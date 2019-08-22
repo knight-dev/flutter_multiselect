@@ -8,3 +8,7 @@ build/
 ios/.generated/
 ios/Flutter/Generated.xcconfig
 ios/Runner/GeneratedPluginRegistrant.*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
